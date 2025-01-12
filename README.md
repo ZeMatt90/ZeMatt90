@@ -22,24 +22,29 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![TPM](https://img.shields.io/badge/-TPM-05122A?style=flat&logo=tpm)
 ![Checkmk](https://img.shields.io/badge/-Checkmk-05122A?style=flat&logo=checkmk)
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-05122A?style=flat&logo=windowsserver)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-05122A?style=flat&logo=redhat)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-05122A?style=flat&logo=oracle)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-05122A?style=flat&logo=activedirectory)
 ![Bitrix24](https://img.shields.io/badge/-Bitrix24-05122A?style=flat&logo=bitrix24)
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-05122A?style=flat&logo=tryhackme)
+![Qualys](https://img.shields.io/badge/-Qualys-05122A?style=flat&logo=qualys)
+![Trend Micro](https://img.shields.io/badge/-Trend%20Micro-05122A?style=flat&logo=trendmicro)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
+![BMC](https://img.shields.io/badge/-BMC-05122A?style=flat&logo=bmcsoftware)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+
+
+
+
+
 <!--
 **ZeMatt90/ZeMatt90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
