@@ -76,12 +76,5 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title](https://linktoyourblogpost.com)
-- [Another Blog Post Title](https://linktoanotherblogpost.com)
-<!-- BLOG-POST-LIST:END -->
-
-
 
 -->
