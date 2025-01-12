@@ -31,7 +31,15 @@
 ![TPM](https://img.shields.io/badge/-TPM-05122A?style=flat&logo=tpm)
 ![Checkmk](https://img.shields.io/badge/-Checkmk-05122A?style=flat&logo=checkmk)
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)
-
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-05122A?style=flat&logo=windowsserver)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-05122A?style=flat&logo=redhat)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-05122A?style=flat&logo=oracle)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-05122A?style=flat&logo=activedirectory)
+![Bitrix24](https://img.shields.io/badge/-Bitrix24-05122A?style=flat&logo=bitrix24)
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-05122A?style=flat&logo=hackthebox)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-05122A?style=flat&logo=tryhackme)
 <!--
 **ZeMatt90/ZeMatt90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
